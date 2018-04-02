@@ -31,15 +31,15 @@ input#message {
 .chat-container a {
     text-transform: uppercase;
     font-weight: bold;
-    color: #816A98;
+    color: #816A45;
     font-size: .8em;
     letter-spacing: 2px;
 }
 
 .chat-container p {
-    background: #323035;
+    background: #323040;
     padding: 1.1em;
     color: white;
-    margin: 5px 0 10px 0;
+    margin: 5px 0 15px 0;
 }
 
